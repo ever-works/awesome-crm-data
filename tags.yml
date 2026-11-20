@@ -1,0 +1,90 @@
+- id: paid
+  name: Paid
+- id: enterprise
+  name: Enterprise
+- id: api
+  name: API
+- id: open-source
+  name: Open Source
+- id: self-hosted
+  name: Self Hosted
+- id: erp
+  name: ERP
+- id: freemium
+  name: Freemium
+- id: free-plan
+  name: Free Plan
+- id: database
+  name: Database
+- id: spreadsheet
+  name: Spreadsheet
+- id: ai-powered
+  name: AI Powered
+- id: saas
+  name: SaaS
+- id: mobile
+  name: Mobile
+- id: all-in-one
+  name: All In One
+- id: appointment-scheduling
+  name: Appointment Scheduling
+- id: email-marketing
+  name: Email Marketing
+- id: small-business
+  name: Small Business
+- id: nonprofit
+  name: Nonprofit
+- id: agplv3
+  name: AGPLv3
+- id: non-profit
+  name: Non Profit
+- id: personal-crm
+  name: Personal CRM
+- id: inside-sales
+  name: Inside Sales
+- id: low-code
+  name: Low Code
+- id: agpl-30
+  name: AGPL 3.0
+- id: python
+  name: Python
+- id: gplv3
+  name: GPLv3
+- id: proprietary
+  name: Proprietary
+- id: microsoft
+  name: Microsoft
+- id: php
+  name: PHP
+- id: rest-api
+  name: REST API
+- id: outlook
+  name: Outlook
+- id: groupware
+  name: Groupware
+- id: mit
+  name: MIT
+- id: marketing-automation
+  name: Marketing Automation
+- id: adobe
+  name: Adobe
+- id: collaboration
+  name: Collaboration
+- id: office-suite
+  name: Office Suite
+- id: oracle
+  name: Oracle
+- id: sales-pipeline
+  name: Sales Pipeline
+- id: sap
+  name: SAP
+- id: cloud
+  name: Cloud
+- id: prospecting
+  name: Prospecting
+- id: gmail
+  name: Gmail
+- id: sugarcrm-fork
+  name: SugarCRM Fork
+- id: european
+  name: European

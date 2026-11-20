@@ -1,0 +1,135 @@
+company_name: Awesome CRM
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+  header:
+    submit_enabled: true
+    pricing_enabled: true
+    layout_enabled: true
+    language_enabled: true
+    theme_enabled: true
+    layout_default: home1
+    pagination_default: standard
+    theme_default: light
+  homepage:
+    hero_enabled: true
+    search_enabled: true
+    default_view: classic
+    default_sort: popularity
+  footer:
+    subscribe_enabled: true
+    version_enabled: true
+    theme_selector_enabled: true
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0
+metadata:
+  last_request_data:
+    generation_method: recreate
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome CRM
+    prompt: |-
+      A curated directory of CRM software: sales CRMs, all-in-one suites, open-source/self-hosted, personal and industry CRMs. Include products such as HubSpot CRM, Salesforce, Pipedrive, Zoho CRM, Attio, Folk, Close, monday CRM, Twenty, EspoCRM, SuiteCRM, Ever Gauzy, plus other notable commercial and open-source options. Categories: Sales CRM, All-in-One CRM Suites, Open-Source & Self-Hosted CRM, Personal CRM, Industry CRM, AI-Native CRM. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: Sales CRM; All-in-One CRM Suites; Open-Source & Self-Hosted CRM; Personal CRM; Industry CRM; AI-Native CRM.
+      Target keywords: crm software, best crm, open source crm, crm for small business.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://en.wikipedia.org/wiki/Comparison_of_CRM_systems
+      - https://www.softwaresuggest.com/crm-software
+      - https://www.saashub.com/best-crm-software
+      - https://zapier.com/blog/best-crm-app/
+      - https://zapier.com/blog/best-free-crm/
+      - https://openalternative.co/categories/business-software/crm-sales
+      - https://www.opensourcealternative.to/category/crm
+      - https://awesome-selfhosted.net/tags/customer-relationship-management-crm.html
+      - https://raw.githubusercontent.com/sneg55/awesome-open-source-crm/HEAD/README.md
+      - https://github.com/topics/crm
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3-ultra-550b-a55b:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 12
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of CRM software: sales CRMs, all-in-one suites, open-source/self-hosted, personal and industry CRMs. Include products such as HubSpot CRM, Salesforce, Pipedrive, Zoho CRM, Attio, Folk, Close, monday CRM, Twenty, EspoCRM, SuiteCRM, Ever Gauzy, plus other notable commercial and open-source options. Categories: Sales CRM, All-in-One CRM Suites, Open-Source & Self-Hosted CRM, Personal CRM, Industry CRM, AI-Native CRM. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: Sales CRM; All-in-One CRM Suites; Open-Source & Self-Hosted CRM; Personal CRM; Industry CRM; AI-Native CRM.
+    Target keywords: crm software, best crm, open source crm, crm for small business.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://en.wikipedia.org/wiki/Comparison_of_CRM_systems
+    - https://www.softwaresuggest.com/crm-software
+    - https://www.saashub.com/best-crm-software
+    - https://zapier.com/blog/best-crm-app/
+    - https://zapier.com/blog/best-free-crm/
+    - https://openalternative.co/categories/business-software/crm-sales
+    - https://www.opensourcealternative.to/category/crm
+    - https://awesome-selfhosted.net/tags/customer-relationship-management-crm.html
+    - https://raw.githubusercontent.com/sneg55/awesome-open-source-crm/HEAD/README.md
+    - https://github.com/topics/crm
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+name: Awesome CRM
+kind: directory
+initial_prompt: |-
+  A curated directory of CRM software: sales CRMs, all-in-one suites, open-source/self-hosted, personal and industry CRMs. Include products such as HubSpot CRM, Salesforce, Pipedrive, Zoho CRM, Attio, Folk, Close, monday CRM, Twenty, EspoCRM, SuiteCRM, Ever Gauzy, plus other notable commercial and open-source options. Categories: Sales CRM, All-in-One CRM Suites, Open-Source & Self-Hosted CRM, Personal CRM, Industry CRM, AI-Native CRM. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: Sales CRM; All-in-One CRM Suites; Open-Source & Self-Hosted CRM; Personal CRM; Industry CRM; AI-Native CRM.
+  Target keywords: crm software, best crm, open source crm, crm for small business.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://en.wikipedia.org/wiki/Comparison_of_CRM_systems
+  - https://www.softwaresuggest.com/crm-software
+  - https://www.saashub.com/best-crm-software
+  - https://zapier.com/blog/best-crm-app/
+  - https://zapier.com/blog/best-free-crm/
+  - https://openalternative.co/categories/business-software/crm-sales
+  - https://www.opensourcealternative.to/category/crm
+  - https://awesome-selfhosted.net/tags/customer-relationship-management-crm.html
+  - https://raw.githubusercontent.com/sneg55/awesome-open-source-crm/HEAD/README.md
+  - https://github.com/topics/crm
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3-ultra-550b-a55b:free
+providers:
+  pipeline: agent-pipeline
+website_repo: ever-works/awesome-crm-website
+deployProvider: k8s
+activity_sync:
+  mode: pull
