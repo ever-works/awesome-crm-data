@@ -1,0 +1,56 @@
+name: Ever Gauzy
+description: Business management platform covering ERP, CRM, HR, applicant
+  tracking and projects. Open-source ERP suite with CRM, self-hostable via
+  GitHub repository.
+source_url: https://github.com/ever-co/ever-gauzy
+category: All-in-One CRM Suites
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - ERP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ever Gauzy is an open-source business management platform covering ERP, CRM,
+  HR, applicant tracking, and projects.
+
+
+  ## Features
+
+
+  - ERP
+
+  - CRM
+
+  - HR management
+
+  - Applicant tracking
+
+  - Project management
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/ever-co/ever-gauzy
+
+
+  ## Repository
+
+
+  https://github.com/ever-co/ever-gauzy
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

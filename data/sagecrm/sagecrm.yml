@@ -1,0 +1,77 @@
+name: SageCRM
+description: SageCRM is a proprietary customer relationship management platform
+  by Sage Group, first released in 1981. It is implemented in ASP.NET and ASP,
+  uses MS SQL, Oracle, and DB2 databases, and runs on Windows.
+source_url: https://www.sage.com/en-us/products/sage-crm
+category: Sales CRM
+tags:
+  - Proprietary
+  - Enterprise
+  - SaaS
+  - API
+markdown: >-
+  ## Overview
+
+
+  SageCRM is a customer relationship management platform by Sage Group, first
+  released in 1981. It provides sales, marketing, and customer service
+  functionality for small and medium-sized businesses.
+
+
+  ## Features
+
+
+  - Sales force automation
+
+  - Marketing automation
+
+  - Customer service and support
+
+  - Web-based interface
+
+  - Multi-language support
+
+  - Office integration
+
+  - Email attachment to business objects
+
+  - Global search
+
+  - Time tracking
+
+  - LDAP support
+
+
+  ## Pricing
+
+
+  Proprietary or SaaS licensing model. Pricing available from Sage sales.
+
+
+  ## Deployment
+
+
+  On-premise deployment on Windows or SaaS/cloud deployment.
+
+
+  ## Integrations
+
+
+  - Microsoft Office
+
+  - Email systems
+
+  - LDAP directory services
+
+  - Sage accounting products
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: Sage Group
+brand_logo_url: https://www.sage.com/assets/images/logo.svg
+images:
+  - https://www.sage.com/assets/images/screenshot.png
+updated_at: 2026-11-20 23:56

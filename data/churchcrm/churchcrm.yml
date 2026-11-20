@@ -1,0 +1,57 @@
+name: ChurchCRM
+description: Church management for people, families, groups, events, attendance
+  and giving. Open-source nonprofit CRM, self-hostable via GitHub repository.
+source_url: https://github.com/ChurchCRM/CRM
+category: Industry CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - Nonprofit
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ChurchCRM is an open-source church management CRM for managing people,
+  families, groups, events, attendance, and giving.
+
+
+  ## Features
+
+
+  - People management
+
+  - Family management
+
+  - Group management
+
+  - Event management
+
+  - Attendance tracking
+
+  - Giving/donation tracking
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/ChurchCRM/CRM
+
+
+  ## Repository
+
+
+  https://github.com/ChurchCRM/CRM
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

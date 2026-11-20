@@ -1,0 +1,56 @@
+name: Odoo
+description: Suite of business applications that includes CRM, sales, accounting
+  and inventory. Open-source ERP suite with CRM, self-hostable via GitHub
+  repository.
+source_url: https://github.com/odoo/odoo
+category: All-in-One CRM Suites
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - ERP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Odoo is an open-source suite of business applications that includes CRM,
+  sales, accounting, and inventory.
+
+
+  ## Features
+
+
+  - CRM
+
+  - Sales management
+
+  - Accounting
+
+  - Inventory management
+
+  - Business applications suite
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/odoo/odoo
+
+
+  ## Repository
+
+
+  https://github.com/odoo/odoo
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

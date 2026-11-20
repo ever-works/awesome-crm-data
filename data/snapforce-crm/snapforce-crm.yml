@@ -1,0 +1,78 @@
+name: Snapforce CRM
+description: Snapforce CRM is a SaaS-based customer relationship management
+  platform first released in 2011. It is implemented in PHP, uses MySQL
+  database, and offers cloud computing deployment.
+source_url: https://www.snapforce.com
+category: Sales CRM
+tags:
+  - SaaS
+  - Paid
+  - API
+  - Small Business
+markdown: >-
+  ## Overview
+
+
+  Snapforce CRM is a customer relationship management platform first released in
+  2011. It provides sales force automation, contact management, and task
+  management for small and medium-sized businesses.
+
+
+  ## Features
+
+
+  - Contact and account management
+
+  - Sales pipeline tracking
+
+  - Task and activity management
+
+  - Email integration
+
+  - Web-based interface
+
+  - Cloud computing deployment
+
+  - Multi-language support (de, en, es, et, fi, fr, it, nl, pl, pt, tr, ko, ja,
+  ru)
+
+  - Office integration
+
+  - Email attachment to business objects
+
+  - Global search
+
+  - LDAP support
+
+
+  ## Pricing
+
+
+  SaaS subscription model with tiered pricing based on features and users.
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS) deployment.
+
+
+  ## Integrations
+
+
+  - Office integration
+
+  - Email clients
+
+  - Various third-party integrations
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: Snapforce CRM
+brand_logo_url: https://www.snapforce.com/images/logo.svg
+images:
+  - https://www.snapforce.com/images/screenshot.png
+updated_at: 2026-11-20 23:56

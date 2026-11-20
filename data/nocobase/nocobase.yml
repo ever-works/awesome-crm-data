@@ -1,0 +1,60 @@
+name: NocoBase
+description: Low-code platform for building business systems such as CRMs, with
+  an Apache-2.0 core. Open-source CRM framework, self-hostable via GitHub
+  repository.
+source_url: https://github.com/nocobase/nocobase
+category: CRM Frameworks
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - Low-Code
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NocoBase is an open-source low-code platform for building business systems
+  such as CRMs, with an Apache-2.0 core.
+
+
+  ## Features
+
+
+  - Low-code platform
+
+  - Business system builder
+
+  - CRM building capabilities
+
+  - Apache-2.0 licensed core
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source under Apache-2.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/nocobase/nocobase
+
+
+  ## Repository
+
+
+  https://github.com/nocobase/nocobase
+
+
+  ## License
+
+
+  Apache-2.0
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

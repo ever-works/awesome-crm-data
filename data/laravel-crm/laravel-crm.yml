@@ -1,0 +1,52 @@
+name: Laravel CRM
+description: Laravel package that adds CRM features to an application or runs as
+  a standalone CRM. Open-source CRM framework, self-hostable via GitHub
+  repository.
+source_url: https://github.com/venturedrake/laravel-crm
+category: CRM Frameworks
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Laravel CRM is an open-source Laravel package that adds CRM features to an
+  application or can run as a standalone CRM.
+
+
+  ## Features
+
+
+  - Laravel package
+
+  - CRM features
+
+  - Can run as standalone CRM
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/venturedrake/laravel-crm
+
+
+  ## Repository
+
+
+  https://github.com/venturedrake/laravel-crm
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

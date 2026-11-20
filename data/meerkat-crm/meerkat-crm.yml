@@ -1,0 +1,54 @@
+name: Meerkat CRM
+description: Digital rolodex with contact circles, relationships, employment
+  history and birthday reminders. Open-source personal CRM, self-hostable via
+  GitHub repository.
+source_url: https://github.com/meerkatcrm/meerkat-crm
+category: Personal CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Meerkat CRM is an open-source digital rolodex for personal relationship
+  management. It features contact circles, relationship tracking, employment
+  history, and birthday reminders.
+
+
+  ## Features
+
+
+  - Contact circles
+
+  - Relationship tracking
+
+  - Employment history
+
+  - Birthday reminders
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/meerkatcrm/meerkat-crm
+
+
+  ## Repository
+
+
+  https://github.com/meerkatcrm/meerkat-crm
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

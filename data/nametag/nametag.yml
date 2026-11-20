@@ -1,0 +1,52 @@
+name: Nametag
+description: Personal relationship manager that tracks birthdays and contact
+  details and maps how people are connected. Open-source self-hosted CRM for
+  personal relationship management.
+source_url: https://github.com/mattogodoy/nametag
+category: Personal CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nametag is an open-source personal relationship manager that tracks birthdays,
+  contact details, and maps connections between people. It helps users visualize
+  and manage their personal network.
+
+
+  ## Features
+
+
+  - Birthday tracking
+
+  - Contact detail management
+
+  - Relationship mapping
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/mattogodoy/nametag
+
+
+  ## Repository
+
+
+  https://github.com/mattogodoy/nametag
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

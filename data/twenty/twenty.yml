@@ -1,0 +1,65 @@
+name: Twenty
+description: Twenty is an open-source, self-hostable CRM platform for building
+  custom sales workflows. It is completely free when self-hosted on your own
+  infrastructure, with cloud plans starting at $12/user/month. The source code
+  is available on GitHub under an open-source license.
+source_url: https://twenty.com
+category: Open Source & Self Hosted CRM
+tags:
+  - Open Source
+  - Self Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Twenty is an open-source, self-hostable CRM platform designed for companies
+  that want full control over their data and software, with strong sales
+  workflow automation capabilities.
+
+
+  ## Key Features
+
+
+  - **Open Source**: Full source code available on GitHub
+
+  - **Self-Hosted**: Deploy on your own infrastructure, pay only for compute
+
+  - **Sales Pipeline**: Customizable sales workflow and deal tracking
+
+  - **Automation**: Strong sales workflow automation tools
+
+  - **Modular**: Can be combined with other open-source tools (Mautic for
+  marketing, Zammad/Chatwoot for support)
+
+  - **Extensible**: Build custom features and integrations
+
+  - **API**: REST API for custom integrations
+
+
+  ## Pricing
+
+
+  - **Self-Hosted**: Completely free (you pay for your own server
+  infrastructure)
+
+  - **Cloud Plans**: Hosted by Twenty developers, starting at $12/user/month
+
+
+  ## License
+
+
+  Open source (license available on GitHub repository)
+
+
+  ## Deployment
+
+
+  Self-hosted on your own infrastructure (Docker, Kubernetes, or manual
+  deployment). Cloud hosting available as a paid option.
+brand: Twenty
+brand_logo_url: https://twenty.com/logo.svg
+images:
+  - https://twenty.com/screenshot.png
+updated_at: 2026-11-20 23:56

@@ -1,0 +1,56 @@
+name: Corteza
+description: Corteza is an open-source CRM platform that includes a unified
+  workspace, enterprise messaging, and a low-code environment for rapidly and
+  securely delivering records-based management solutions. It is licensed under
+  Apache-2.0 and can be self-hosted. The project is written in Go and has over
+  2,100 stars on GitHub.
+source_url: https://corteza.io
+category: Open Source & Self Hosted CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Low-Code
+  - AGPL-3.0
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Corteza is an open-source CRM platform that includes a unified workspace,
+  enterprise messaging, and a low-code environment for rapidly and securely
+  delivering records-based management solutions.
+
+
+  ## Features
+
+
+  - Unified workspace for customer relationship management
+
+  - Enterprise messaging capabilities
+
+  - Low-code environment for rapid application development
+
+  - Records-based management
+
+  - Self-hosted deployment
+
+
+  ## Technical Details
+
+
+  - Language: Go
+
+  - License: Apache-2.0
+
+  - Repository: https://github.com/cortezaproject/corteza
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache-2.0 license. Self-hosted deployment.
+brand: Corteza
+brand_logo_url: https://corteza.io/logo.svg
+images:
+  - https://corteza.io/images/corteza-screenshot.png
+updated_at: 2026-11-20 23:56

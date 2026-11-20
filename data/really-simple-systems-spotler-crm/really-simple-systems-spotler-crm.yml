@@ -1,0 +1,69 @@
+name: Really Simple Systems / Spotler CRM
+description: Really Simple Systems, now Spotler CRM, is a SaaS-based CRM
+  platform first released in 2006. It is implemented in VBScript, JavaScript,
+  and ASP, uses MySQL database, and offers cloud computing deployment.
+source_url: https://www.spotlercrm.com
+category: Sales CRM
+tags:
+  - SaaS
+  - Paid
+  - API
+  - Small Business
+markdown: >-
+  ## Overview
+
+
+  Really Simple Systems, now Spotler CRM, is a customer relationship management
+  platform first released in 2006. It provides sales and marketing automation
+  functionality for small and medium-sized businesses.
+
+
+  ## Features
+
+
+  - Contact and account management
+
+  - Sales pipeline tracking
+
+  - Email marketing
+
+  - Marketing automation
+
+  - Web-based interface
+
+  - Cloud computing deployment
+
+  - Single language support (en)
+
+  - Office integration
+
+
+  ## Pricing
+
+
+  SaaS subscription model with tiered pricing based on features and users.
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS) deployment.
+
+
+  ## Integrations
+
+
+  - Email marketing platforms
+
+  - Various third-party integrations
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: Spotler
+brand_logo_url: https://www.spotlercrm.com/images/logo.svg
+images:
+  - https://www.spotlercrm.com/images/screenshot.png
+updated_at: 2026-11-20 23:56

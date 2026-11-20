@@ -1,0 +1,52 @@
+name: NextCRM
+description: CRM with projects, invoicing and documents, built with Next.js.
+  Open-source business CRM, self-hostable via GitHub repository.
+source_url: https://github.com/pdovhomilja/nextcrm-app
+category: Sales CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NextCRM is an open-source CRM that includes projects, invoicing, and
+  documents. Built with Next.js.
+
+
+  ## Features
+
+
+  - Project management
+
+  - Invoicing
+
+  - Document management
+
+  - Built with Next.js
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/pdovhomilja/nextcrm-app
+
+
+  ## Repository
+
+
+  https://github.com/pdovhomilja/nextcrm-app
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

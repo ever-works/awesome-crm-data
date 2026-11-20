@@ -1,0 +1,60 @@
+name: Bigin by Zoho CRM
+description: Bigin by Zoho CRM is a lightweight CRM designed for freelancers,
+  startups, and SMBs, offering pipeline management, contact management, task
+  management, and email integration. It includes a free plan with annual
+  billing.
+source_url: https://www.zoho.com/bigin
+category: Sales CRM
+tags:
+  - Free Plan
+  - API
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bigin by Zoho CRM is a pipeline-focused CRM built for small businesses,
+  freelancers, and startups. It simplifies customer relationship management with
+  essential sales tools.
+
+
+  ## Key Features
+
+
+  - Pipeline Management
+
+  - Contact Management
+
+  - Task Management
+
+  - Email Integration
+
+  - Deal tracking
+
+  - Activity reminders
+
+
+  ## Pricing
+
+
+  Starts from $0 per user per month, billed annually (free plan). Paid plans
+  available for additional features.
+
+
+  ## Deployment
+
+
+  Cloud-based deployment.
+
+
+  ## Integrations
+
+
+  Native integrations with Zoho ecosystem and third-party applications.
+  API-based integrations available.
+brand: Zoho
+brand_logo_url: https://www.zoho.com/assets/img/zoho-logo.svg
+images:
+  - https://www.zoho.com/bigin/images/bigin-dashboard.png
+updated_at: 2026-11-20 23:56

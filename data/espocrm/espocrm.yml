@@ -1,0 +1,52 @@
+name: EspoCRM
+description: EspoCRM is a CRM with a frontend designed as a single-page
+  application and a REST API. It is written in PHP and licensed under AGPL-3.0.
+  The project has over 3,600 stars on GitHub and offers self-hosted deployment.
+source_url: https://www.espocrm.com
+category: Open Source & Self Hosted CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - PHP
+  - REST API
+  - AGPL-3.0
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EspoCRM is a CRM with a frontend designed as a single-page application and a
+  REST API. It is written in PHP and licensed under AGPL-3.0.
+
+
+  ## Features
+
+
+  - Single-page application frontend
+
+  - REST API for integration
+
+  - Self-hosted deployment
+
+  - Written in PHP
+
+
+  ## Technical Details
+
+
+  - Language: PHP
+
+  - License: AGPL-3.0
+
+  - Repository: https://github.com/espocrm/espocrm
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license. Self-hosted deployment.
+brand: EspoCRM
+brand_logo_url: https://www.espocrm.com/logo.svg
+images:
+  - https://www.espocrm.com/images/espocrm-screenshot.png
+updated_at: 2026-11-20 23:56

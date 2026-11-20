@@ -1,0 +1,54 @@
+name: Deskcomm CRM
+description: Sales CRM for WhatsApp with AI agents that answer and qualify
+  leads. Open-source AI-native business CRM, self-hostable via GitHub
+  repository.
+source_url: https://github.com/melgarafael/DeskcommCRM
+category: AI-Native CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Deskcomm CRM is an open-source sales CRM designed for WhatsApp. It uses AI
+  agents to answer and qualify leads automatically.
+
+
+  ## Features
+
+
+  - WhatsApp integration
+
+  - AI agents for lead qualification
+
+  - Automated responses
+
+  - Lead management
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/melgarafael/DeskcommCRM
+
+
+  ## Repository
+
+
+  https://github.com/melgarafael/DeskcommCRM
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

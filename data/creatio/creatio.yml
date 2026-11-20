@@ -1,0 +1,64 @@
+name: Creatio
+description: Creatio is a no-code platform for CRM and business process
+  automation, offering sales, marketing, and service management capabilities. It
+  provides lead management, sales forecasting, opportunity management, and
+  contact management tools for mid-market and enterprise businesses. Pricing
+  starts from $40 per user per month with no free plan but a free trial
+  available.
+source_url: https://www.creatio.com
+category: Sales CRM
+tags:
+  - Freemium
+  - API
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Creatio is a no-code platform for customer relationship management and
+  business process automation. It supports sales, marketing, and service
+  management workflows.
+
+
+  ## Key Features
+
+
+  - Lead Management
+
+  - Sales Forecasting
+
+  - Opportunity Management
+
+  - Contact Management
+
+  - No-code process automation
+
+  - Pipeline management
+
+  - Email integration
+
+
+  ## Pricing
+
+
+  Starts from $40 per user per month. No free plan available. Free trial
+  available.
+
+
+  ## Deployment
+
+
+  Cloud-based deployment.
+
+
+  ## Integrations
+
+
+  Native integrations with email platforms and business applications. API-based
+  integrations available.
+brand: Creatio
+brand_logo_url: https://www.creatio.com/assets/images/logo.svg
+images:
+  - https://www.creatio.com/assets/images/creatio-platform.png
+updated_at: 2026-11-20 23:56

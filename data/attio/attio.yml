@@ -1,0 +1,52 @@
+name: Attio
+description: AI-native CRM for startups with a free plan available and paid
+  plans from $36/user/month. Features a modern, flexible CRM platform built for
+  startup teams with AI capabilities integrated throughout.
+source_url: https://attio.com/
+category: AI-Native CRM
+tags:
+  - Freemium
+  - AI-Powered
+  - API
+featured: false
+markdown: >-
+  # Attio
+
+
+  ## Overview
+
+  Attio is an AI-native CRM built for startups. It offers a modern, flexible CRM
+  platform with AI capabilities integrated throughout the product.
+
+
+  ## Key Features
+
+  - **AI-native CRM**: built with AI capabilities at its core
+
+  - **Free plan**: available for getting started
+
+  - **Modern interface**: designed for startup teams
+
+  - **Flexible data model**: adapts to your processes
+
+
+  ## Pricing
+
+  Free plan available; from $36/user/month.
+
+
+  ## Deployment
+
+  Cloud (SaaS).
+
+
+  ## Integrations
+
+  - API available
+
+  - Zapier integration
+brand: Attio
+brand_logo_url: https://attio.com/logo.svg
+images:
+  - https://attio.com/og-image.png
+updated_at: 2026-11-20 23:56

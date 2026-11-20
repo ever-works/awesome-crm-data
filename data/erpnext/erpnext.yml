@@ -1,0 +1,55 @@
+name: ERPNext
+description: ERP with CRM, sales, accounting, inventory and manufacturing
+  modules. Open-source ERP suite with CRM, self-hostable via GitHub repository.
+source_url: https://github.com/frappe/erpnext
+category: All-in-One CRM Suites
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - ERP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ERPNext is an open-source ERP suite that includes CRM, sales, accounting,
+  inventory, and manufacturing modules.
+
+
+  ## Features
+
+
+  - CRM
+
+  - Sales management
+
+  - Accounting
+
+  - Inventory management
+
+  - Manufacturing modules
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/frappe/erpnext
+
+
+  ## Repository
+
+
+  https://github.com/frappe/erpnext
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

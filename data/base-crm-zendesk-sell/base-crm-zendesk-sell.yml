@@ -1,0 +1,75 @@
+name: Base CRM (Zendesk Sell)
+description: Base CRM, now known as Zendesk Sell, is a SaaS-based CRM platform
+  first released in 2009. It is implemented in Ruby on Rails and Python, uses
+  MySQL database, and offers mobile apps for iOS, Android, and Windows Phone.
+source_url: https://www.zendesk.com/sell
+category: Sales CRM
+tags:
+  - SaaS
+  - Paid
+  - API
+  - Mobile
+markdown: >-
+  ## Overview
+
+
+  Base CRM, acquired by Zendesk and now marketed as Zendesk Sell, is a sales CRM
+  platform launched in 2009. It helps sales teams manage leads, contacts, and
+  deals through a web-based interface and mobile applications.
+
+
+  ## Features
+
+
+  - Lead and contact management
+
+  - Sales pipeline and deal tracking
+
+  - Email integration
+
+  - Mobile apps for iOS, Android, and Windows Phone
+
+  - Multi-language support (de, en, es, fr, nl, pl, pt)
+
+  - Web-based interface
+
+  - Office integration
+
+  - Desktop environment support
+
+  - Global search
+
+  - LDAP support
+
+
+  ## Pricing
+
+
+  SaaS subscription model. Pricing varies by plan and number of users.
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS) deployment.
+
+
+  ## Integrations
+
+
+  - Office integration
+
+  - Email clients
+
+  - LDAP directory services
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: Zendesk
+brand_logo_url: https://www.zendesk.com/images/sell/logo.svg
+images:
+  - https://www.zendesk.com/images/sell/screenshot.png
+updated_at: 2026-11-20 23:56

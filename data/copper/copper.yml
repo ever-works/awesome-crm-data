@@ -1,0 +1,56 @@
+name: Copper
+description: CRM for Google Workspace users with a full CRM feature set
+  integrated directly with Google Workspace. Provides native integration with
+  Gmail, Google Calendar, and other Google Workspace apps. Pricing starts from
+  $29/user/month.
+source_url: https://www.copper.com/
+category: Sales CRM
+tags:
+  - API
+featured: false
+markdown: >-
+  # Copper
+
+
+  ## Overview
+
+  Copper is a CRM platform built specifically for Google Workspace users. It
+  offers a full CRM feature set integrated directly with Google Workspace,
+  providing native integration with Gmail, Google Calendar, and other Google
+  apps.
+
+
+  ## Key Features
+
+  - **Google Workspace integration**: full CRM feature set integrated with
+  Google Workspace
+
+  - **Gmail integration**: work with CRM data directly from Gmail
+
+  - **Google Calendar integration**: schedule and track activities
+
+  - **Native Google apps integration**: work within the Google ecosystem
+
+
+  ## Pricing
+
+  From $29/user/month.
+
+
+  ## Deployment
+
+  Cloud (SaaS).
+
+
+  ## Integrations
+
+  - Google Workspace (Gmail, Google Calendar, etc.)
+
+  - API available
+
+  - Zapier integration
+brand: Copper
+brand_logo_url: https://www.copper.com/assets/images/logo.svg
+images:
+  - https://www.copper.com/assets/images/hero.png
+updated_at: 2026-11-20 23:56

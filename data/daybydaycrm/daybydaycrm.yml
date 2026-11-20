@@ -1,0 +1,53 @@
+name: DaybydayCRM
+description: Leads, tasks and clients organized around a team's daily workflow.
+  Open-source business CRM for team workflow management, self-hostable via
+  GitHub repository.
+source_url: https://github.com/Bottelet/DaybydayCRM
+category: Sales CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DaybydayCRM is an open-source business CRM that organizes leads, tasks, and
+  clients around a team's daily workflow.
+
+
+  ## Features
+
+
+  - Lead management
+
+  - Task management
+
+  - Client management
+
+  - Daily workflow organization
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/Bottelet/DaybydayCRM
+
+
+  ## Repository
+
+
+  https://github.com/Bottelet/DaybydayCRM
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

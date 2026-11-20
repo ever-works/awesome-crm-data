@@ -1,0 +1,58 @@
+name: Atomic CRM
+description: Contacts, tasks, notes and a Kanban deal pipeline, built with
+  React, shadcn/ui and Supabase for customization. Open-source business CRM,
+  self-hostable via GitHub repository.
+source_url: https://github.com/marmelab/atomic-crm
+category: Sales CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Atomic CRM is an open-source business CRM for managing contacts, tasks, notes,
+  and Kanban deal pipelines. Built with React, shadcn/ui, and Supabase for easy
+  customization.
+
+
+  ## Features
+
+
+  - Contact management
+
+  - Task management
+
+  - Notes
+
+  - Kanban deal pipeline
+
+  - Built with React, shadcn/ui, and Supabase
+
+  - Customizable
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/marmelab/atomic-crm
+
+
+  ## Repository
+
+
+  https://github.com/marmelab/atomic-crm
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

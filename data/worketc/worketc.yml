@@ -1,0 +1,79 @@
+name: WORKetc
+description: WORKetc is a SaaS-based all-in-one business management platform by
+  Daniel Barnett, first released in 2009. It is implemented in C# and .NET, uses
+  Microsoft SQL Server database, and runs on Windows.
+source_url: https://www.worketc.com
+category: All-in-One CRM Suites
+tags:
+  - SaaS
+  - Paid
+  - API
+  - All-in-One
+markdown: >-
+  ## Overview
+
+
+  WORKetc is an all-in-one business management platform first released in 2009.
+  It combines CRM, project management, billing, help desk, and time tracking
+  functionality in a single system.
+
+
+  ## Features
+
+
+  - Customer relationship management
+
+  - Project management
+
+  - Billing and invoicing
+
+  - Help desk and support
+
+  - Time tracking
+
+  - Web-based interface
+
+  - Multi-language support (de, en, es, fr, it, nl)
+
+  - Office integration (Outlook Addon and Google Docs)
+
+  - Email attachment to business objects
+
+  - Global search
+
+  - LDAP support
+
+
+  ## Pricing
+
+
+  SaaS subscription model with tiered pricing based on features and users.
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS) deployment.
+
+
+  ## Integrations
+
+
+  - Microsoft Outlook Addon
+
+  - Google Docs
+
+  - Email systems
+
+  - LDAP directory services
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: WORKetc
+brand_logo_url: https://www.worketc.com/images/logo.svg
+images:
+  - https://www.worketc.com/images/screenshot.png
+updated_at: 2026-11-20 23:56

@@ -1,0 +1,52 @@
+name: OroCRM
+description: CRM for marketing, sales and customer service, built on Symfony.
+  Open-source business CRM, self-hostable via GitHub repository.
+source_url: https://github.com/oroinc/crm-application
+category: Sales CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OroCRM is an open-source business CRM for marketing, sales, and customer
+  service. Built on Symfony.
+
+
+  ## Features
+
+
+  - Marketing management
+
+  - Sales management
+
+  - Customer service
+
+  - Built on Symfony
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/oroinc/crm-application
+
+
+  ## Repository
+
+
+  https://github.com/oroinc/crm-application
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

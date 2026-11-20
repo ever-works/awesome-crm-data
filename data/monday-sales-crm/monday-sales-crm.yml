@@ -1,0 +1,58 @@
+name: monday sales CRM
+description: monday sales CRM is a sales-focused CRM platform offering lead
+  management, contact management, pipeline management, and email integration for
+  startups, SMBs, and enterprises. Pricing starts from $12 per seat per month
+  with a free trial available.
+source_url: https://monday.com
+category: Sales CRM
+tags:
+  - Freemium
+  - API
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  monday sales CRM is a customizable sales CRM platform designed for lead and
+  pipeline management, contact tracking, and team collaboration.
+
+
+  ## Key Features
+
+
+  - Lead Management
+
+  - Contact Management
+
+  - Pipeline Management
+
+  - Email Integration
+
+  - Customizable workflows
+
+  - Sales dashboards
+
+
+  ## Pricing
+
+
+  Starts from $12 per seat per month. Free trial available.
+
+
+  ## Deployment
+
+
+  Cloud-based deployment.
+
+
+  ## Integrations
+
+
+  Native integrations with email, calendar, and productivity tools. API-based
+  integrations available.
+brand: monday.com
+brand_logo_url: https://monday.com/assets/logo.svg
+images:
+  - https://monday.com/assets/crm-screenshot.png
+updated_at: 2026-11-20 23:56

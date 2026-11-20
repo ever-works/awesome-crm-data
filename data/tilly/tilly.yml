@@ -1,0 +1,54 @@
+name: Tilly
+description: Relationship journal built as an offline-capable web app with
+  client-side sync. Open-source personal CRM for journaling relationships and
+  tracking interactions.
+source_url: https://github.com/carlassmann/tilly
+category: Personal CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tilly is an open-source relationship journal built as an offline-capable web
+  application with client-side sync. It allows users to journal relationships
+  and track interactions without requiring constant internet connectivity.
+
+
+  ## Features
+
+
+  - Offline-capable web app
+
+  - Client-side sync
+
+  - Relationship journaling
+
+  - Interaction tracking
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/carlassmann/tilly
+
+
+  ## Repository
+
+
+  https://github.com/carlassmann/tilly
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

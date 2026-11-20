@@ -1,0 +1,66 @@
+name: Streak
+description: Streak is a CRM extension for Gmail that adds sales pipeline
+  features directly to the email interface. The free plan includes 500 items and
+  50 mail merge emails per day. Paid plans start at $59/user/month.
+source_url: https://streak.com
+category: Sales CRM
+tags:
+  - Free Plan
+  - Freemium
+  - Gmail
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Streak is a CRM that lives inside Gmail, adding sales pipeline and deal
+  management features directly to the email interface without requiring a
+  separate application.
+
+
+  ## Key Features
+
+
+  - **Gmail Integration**: Browser extension for Chrome, Safari, Edge; Gmail
+  add-on
+
+  - **Spreadsheet-Style Pipeline**: Pipeline stages at top, contact details in
+  spreadsheet below
+
+  - **Multiple Pipelines**: Create separate pipelines for sales, hiring,
+  partnerships, and more
+
+  - **Pipeline Templates**: Pre-built templates for common use cases
+
+  - **Email Tracking**: Notifications when recipients open emails, with tracking
+  history by date and location
+
+  - **Contact Management**: Add contacts from emails, label as leads or deals
+
+  - **Notes and Tasks**: Activity tracking linked to contacts
+
+  - **Mail Merge**: 50 mail merge emails per day on free plan
+
+  - **Shared Pipelines**: Available on paid plans
+
+  - **Reporting**: Available on paid plans
+
+
+  ## Pricing
+
+
+  - **Free Plan**: 500 items, 50 mail merge emails per day
+
+  - **Paid Plans**: Start at $59/user/month (includes shared pipelines, link
+  tracking, reports)
+
+
+  ## Deployment
+
+
+  Browser extension (Chrome, Safari, Edge) and Gmail add-on.
+brand: Streak
+brand_logo_url: https://streak.com/images/logo.svg
+images:
+  - https://streak.com/images/streak-dashboard.png
+updated_at: 2026-11-20 23:56

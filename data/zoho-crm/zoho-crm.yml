@@ -1,0 +1,80 @@
+name: Zoho CRM
+description: All-in-one CRM with strong AI features through Zia for data
+  analysis and predictive insights. Handles the entire breadth of sales work
+  including lead and deal tracking, multi-channel communication, automation, and
+  reporting. Free plan available for 3 users; paid plans from $20/user/month.
+source_url: https://www.zoho.com/crm/
+category: All In One CRM Suites
+tags:
+  - Freemium
+  - AI-Powered
+  - API
+featured: true
+markdown: >-
+  # Zoho CRM
+
+
+  ## Overview
+
+  Zoho CRM is a powerful sales platform with economical pricing across all
+  tiers, making it easy to unlock advanced features without astronomic costs. It
+  handles the entire breadth of sales work from tracking leads and deals to
+  keeping in touch via multiple channels, automating repetitive work, and
+  extracting insights with reports.
+
+
+  ## Key Features
+
+  - **Zia AI engine**: contact cleaning, lead scoring, anomaly detection in
+  sales process, product/service recommendations, churn prediction, best time to
+  contact prediction
+
+  - **Zia Agent Studio**: no-code AI agent builder platform with pre-built
+  templates and custom agent creation
+
+  - **Data enrichment**: using email data, automatic classification of uploaded
+  files using OCR
+
+  - **Predictive analytics**: conversion likelihood for leads and deals, churn,
+  next best action, best time to contact, historical-based forecasting, custom
+  predictive model builder
+
+  - **Email AI**: sentiment and intent analysis, summarization, activity
+  extraction, competitor mention alerts
+
+  - **Automation AI**: workflow, macro, and record assignment suggestions
+
+  - **Insights and analytics**: data anomaly detection, real-time data change
+  alerts, sales strategy analysis
+
+  - **AI agents**: deploy pre-built agents for multi-step tasks across Zoho
+  products; build custom ones in Zia Agent Studio
+
+  - **Zoho suite integrations**: project management, app building, document
+  management
+
+  - **Zapier integration**: connect to thousands of other apps
+
+
+  ## Pricing
+
+  Free plan available for 3 users; paid plans from $20/user/month.
+
+
+  ## Deployment
+
+  Cloud (SaaS), with mobile apps for iOS and Android.
+
+
+  ## Integrations
+
+  - Zapier integration
+
+  - Zoho software suite (project management, app building, document management)
+
+  - AI assistant access to CRM data
+brand: Zoho
+brand_logo_url: https://www.zoho.com/crm/images/zoho-crm-logo.svg
+images:
+  - https://www.zoho.com/crm/images/hero-section.png
+updated_at: 2026-11-20 23:56

@@ -1,0 +1,80 @@
+name: Act! CRM
+description: Act! CRM is a customer relationship management software developed
+  by Pat Sullivan and Mike Muhney, first released in 1987. It is available as
+  proprietary or SaaS deployment and runs on Windows, Web, iOS, and Android with
+  MS SQL as its database backend. The last stable version 22.1 was released in
+  June 2020.
+source_url: https://www.act.com
+category: Sales CRM
+tags:
+  - Paid
+  - Enterprise
+  - API
+markdown: >-
+  ## Overview
+
+
+  Act! CRM is a customer relationship management software originally created by
+  Pat Sullivan and Mike Muhney in 1987. It is designed for small and
+  medium-sized businesses to manage contacts, activities, and sales pipelines.
+
+
+  ## Features
+
+
+  - Contact and activity management
+
+  - Sales pipeline tracking
+
+  - Email integration
+
+  - Mobile access (iOS, Android)
+
+  - Web-based and desktop deployment options
+
+  - MS SQL database backend
+
+  - Multi-language support (en, de, fr)
+
+  - LDAP support
+
+  - Web-based access
+
+  - Global search
+
+  - Time tracking
+
+  - Email attachment to business objects
+
+
+  ## Pricing
+
+
+  Proprietary or SaaS licensing model. Contact vendor for pricing details.
+
+
+  ## Deployment
+
+
+  Available as on-premise (Windows) or SaaS/cloud deployment.
+
+
+  ## Integrations
+
+
+  - Microsoft Office integration
+
+  - Email clients
+
+  - LDAP directory services
+
+
+  ## Repository
+
+
+  Proprietary software; no public repository.
+brand: Act!
+brand_logo_url: https://www.act.com/assets/images/act-logo.svg
+images:
+  - https://www.act.com/assets/images/act-crm-screenshot.png
+updated_at: 2026-11-20 23:56

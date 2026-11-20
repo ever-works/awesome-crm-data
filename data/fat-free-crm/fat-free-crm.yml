@@ -1,0 +1,54 @@
+name: Fat Free CRM
+description: Ruby on Rails CRM for contacts, leads, accounts and opportunities.
+  Open-source business CRM, self-hostable via GitHub repository.
+source_url: https://github.com/fatfreecrm/fat_free_crm
+category: Sales CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Fat Free CRM is an open-source Ruby on Rails CRM for managing contacts, leads,
+  accounts, and opportunities.
+
+
+  ## Features
+
+
+  - Contact management
+
+  - Lead management
+
+  - Account management
+
+  - Opportunity tracking
+
+  - Built on Ruby on Rails
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/fatfreecrm/fat_free_crm
+
+
+  ## Repository
+
+
+  https://github.com/fatfreecrm/fat_free_crm
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

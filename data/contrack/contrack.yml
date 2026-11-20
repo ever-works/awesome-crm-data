@@ -1,0 +1,56 @@
+name: Contrack
+description: Contact manager that imports, deduplicates and enriches contacts,
+  with follow-up reminders and private address books for each family or team
+  member. Open-source personal CRM licensed under MIT, self-hostable via GitHub
+  repository.
+source_url: https://github.com/arvarik/contrack
+category: Personal CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Contrack is an open-source contact manager designed for personal relationship
+  management. It helps users import, deduplicate, and enrich contacts while
+  providing follow-up reminders and private address books for each family or
+  team member.
+
+
+  ## Features
+
+
+  - Contact import and deduplication
+
+  - Contact enrichment
+
+  - Follow-up reminders
+
+  - Private address books for family or team members
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/arvarik/contrack
+
+
+  ## Repository
+
+
+  https://github.com/arvarik/contrack
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

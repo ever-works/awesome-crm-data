@@ -1,0 +1,55 @@
+name: Comp AI CRM
+description: CRM operated by an AI agent that researches contacts, schedules its
+  own follow-ups and records only sourced facts. Open-source AI-native business
+  CRM, self-hostable via GitHub repository.
+source_url: https://github.com/trycompai/crm
+category: AI-Native CRM
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Comp AI CRM is an open-source CRM operated by an AI agent. The agent
+  researches contacts, schedules its own follow-ups, and records only sourced
+  facts, reducing manual data entry.
+
+
+  ## Features
+
+
+  - AI agent operation
+
+  - Contact research
+
+  - Automated follow-up scheduling
+
+  - Sourced fact recording
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted via GitHub repository: https://github.com/trycompai/crm
+
+
+  ## Repository
+
+
+  https://github.com/trycompai/crm
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-20 23:56

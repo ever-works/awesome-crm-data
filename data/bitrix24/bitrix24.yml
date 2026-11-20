@@ -1,0 +1,73 @@
+name: Bitrix24
+description: Bitrix24 is an all-in-one business app with sales, marketing,
+  customer service, contact center, project management, collaboration, HR,
+  website building, eCommerce, and eSign features. The free plan includes
+  unlimited users and contacts with a 5GB limit on uploaded data. Paid plans
+  start at $49/month for 5 users.
+source_url: https://www.bitrix24.com
+category: All In One CRM Suites
+tags:
+  - Free Plan
+  - Freemium
+  - All In One
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bitrix24 is a comprehensive all-in-one business platform that combines CRM,
+  project management, collaboration, and communication tools in a single system.
+
+
+  ## Key Features
+
+
+  - **CRM**: Sales pipeline, contact management, deal tracking, Kanban, list,
+  calendar, and activity views
+
+  - **Marketing**: Email marketing, SMS, landing pages, web forms
+
+  - **Customer Service**: Contact center, telephony, help desk
+
+  - **Project Management**: Tasks, Gantt charts, Kanban boards, time tracking
+
+  - **Collaboration**: Group chats, video calls, document management, employee
+  directory
+
+  - **HR**: Employee management, time off, company structure
+
+  - **E-commerce**: Online store builder, payment processing
+
+  - **Website Builder**: Drag-and-drop website and landing page creation
+
+  - **eSign**: Electronic signature capabilities
+
+  - **Automation**: Pipeline automation, business process automation
+
+  - **AI Assistant**: Built-in AI features
+
+  - **Integrations**: Native integrations plus Zapier connectivity
+
+
+  ## Pricing
+
+
+  - **Free Plan**: Unlimited users and contacts, 5GB data storage, basic CRM
+  features
+
+  - **Basic Plan**: Starts at $49/month for 5 users
+
+  - **Standard, Professional, Enterprise Plans**: Higher tiers with advanced
+  features
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS) with desktop apps for Windows, Mac, Linux and mobile apps
+  for iOS and Android. Self-hosted option available (Bitrix24 On-Premise).
+brand: Bitrix24
+brand_logo_url: https://www.bitrix24.com/bitrix/images/bitrix24-logo.svg
+images:
+  - https://www.bitrix24.com/bitrix/images/bitrix24-crm.png
+updated_at: 2026-11-20 23:56

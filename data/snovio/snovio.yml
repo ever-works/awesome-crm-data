@@ -1,0 +1,54 @@
+name: Snov.io
+description: Snov.io is a CRM focused on prospecting and cold outreach with
+  email verification capabilities. The free plan includes 50 credits and 100
+  recipients per day. Paid plans are available for additional outreach features.
+source_url: https://snov.io
+category: Sales CRM
+tags:
+  - Free Plan
+  - Freemium
+  - Prospecting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Snov.io is a sales automation and CRM platform focused on prospecting, email
+  outreach, and lead generation for sales teams and recruiters.
+
+
+  ## Key Features
+
+
+  - **Prospecting**: Lead search and contact database
+
+  - **Email Verification**: Verify email addresses before sending
+
+  - **Cold Outreach**: Email campaigns and drip sequences
+
+  - **CRM**: Contact and deal management
+
+  - **Email Finder**: Find professional email addresses
+
+  - **Domain Search**: Find emails by company domain
+
+  - **Integrations**: Native integrations plus Zapier connectivity
+
+
+  ## Pricing
+
+
+  - **Free Plan**: 50 credits, 100 recipients per day
+
+  - **Paid Plans**: Additional credits, recipients, and outreach features
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS).
+brand: Snov.io
+brand_logo_url: https://snov.io/images/logo.svg
+images:
+  - https://snov.io/images/dashboard.png
+updated_at: 2026-11-20 23:56

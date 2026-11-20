@@ -1,0 +1,56 @@
+name: Notion
+description: All-in-one workspace with a generous free plan for personal users,
+  allowing unlimited contacts and data visualizations to track clients,
+  projects, or anything else. Supports up to 15 guests per page for
+  collaboration without upgrading to a paid team space. Can be configured as a
+  CRM using templates.
+source_url: https://notion.so
+category: All In One CRM Suites
+tags:
+  - Free Plan
+  - All-in-One
+  - Collaboration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Notion is an all-in-one workspace that combines notes, documents, databases,
+  and project management tools. It can be adapted as a CRM using templates to
+  track clients, projects, and relationships.
+
+
+  ## Features
+
+
+  - Generous free plan for personal users with unlimited blocks
+
+  - Add unlimited contacts and data visualizations
+
+  - Up to 15 guests per page for collaboration without upgrading
+
+  - Customizable databases with multiple views (table, board, gallery, calendar,
+  list)
+
+  - CRM templates available for quick setup
+
+  - Integration with Zapier for workflow automation
+
+
+  ## Pricing
+
+
+  - Free plan available for personal users with generous limits
+
+  - Paid plans start at $10/user/month for additional features and guest limits
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS with web, desktop, and mobile applications.
+brand: Notion Labs
+brand_logo_url: https://www.notion.so/icons/notion_640px.svg
+images:
+  - https://www.notion.so/images/opengraph.png
+updated_at: 2026-11-20 23:56
